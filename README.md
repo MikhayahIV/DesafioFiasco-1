@@ -20,4 +20,4 @@ Use condicionais para verificar se o ninja pode concluir a missão baseado na su
 
 - Altere o Status da missão para "concluida" ou "não concluida" de acordo com essa lógica e imprima o resultado.
 
-- Ninjas menores de 15 anos só podem concluir missões de nível C ou D. Ninjas com 15 ou mais podem concluir missões de qualquer nível.
+- Ninjas menores de 15 anos só podem concluir missões de nível C ou D. Ninjas com 15 ou mais podem concluir missões de qualquer nível. 
